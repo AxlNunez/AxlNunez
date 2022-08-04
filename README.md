@@ -1,4 +1,3 @@
-<div style="background-color:#33475b">
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
@@ -53,4 +52,10 @@ I am a Full Stack Software Engineer in the .NET Stack <img src="https://media.gi
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
