@@ -17,7 +17,7 @@
 
 I am a Full Stack Software Engineer in the .NET Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m currently working as a Software Engineer and contributing to front-end, middle-tier, and back-end solutions for building web applications.
+- 🔭 I’m currently contributing to front-end, middle-tier, and back-end solutions for building web applications.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]
 - ⚡ Fun fact: I've traveled across the entire East Coast and been to 3 continents!
@@ -40,8 +40,8 @@ I am a Full Stack Software Engineer in the .NET Stack <img src="https://media.gi
                                                                                                                                      
 - Back-End:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" **alt="SQL" width="40" height="40"/>>&nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" title="REST API" **alt="REST API" width="40" height="40"/>>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" title="REST API" **alt="REST API" width="40" height="40"/>&nbsp;
 </div>
 
 - Tools:
