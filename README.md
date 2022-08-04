@@ -19,8 +19,10 @@ I am a Full Stack Software Engineer in the .NET Stack <img src="https://media.gi
 
 - 🔭 I’m currently contributing to front-end, middle-tier, and back-end solutions for building web applications.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]
-- ⚡ Fun fact: I've traveled across the entire East Coast and been to 3 continents!
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AxlNunez) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:FullStackAxl@gmail.com)                                                                                                                                   
+                                                                                                                                      
+                                                                                                                                      
+- ⚡ Fun fact: I've traveled across the entire East Coast, been to 3 continents, and saw one of the 7 wonders of the world!
 
  ### :hammer_and_wrench: Languages and Tools :
 - Front-End: 
