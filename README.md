@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<h1 align="center"> Hi there 👋</h1>
+
+<div id="badges">
+  <a href=https://www.linkedin.com/in/AxlNunez">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **AxlNunez/AxlNunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
