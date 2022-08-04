@@ -56,6 +56,7 @@ I am a Full Stack Software Engineer in the .NET Stack <img src="https://media.gi
 ---
 
 ### :fire: My Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxlNunez&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AxlNunez)](https://github.com/anuraghazra/github-readme-stats)
 
 
