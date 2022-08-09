@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=AxlNuneze&style=flat-square&color=blue" alt=""/>
 </div>
 
-I am a Full Stack Software Engineer in the .NET Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m currently contributing to front-end, middle-tier, and back-end solutions for building web applications.
 - 🌱 I’m currently learning Python.
