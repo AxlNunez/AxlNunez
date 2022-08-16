@@ -28,8 +28,7 @@ I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack 
  - Middle-Tier:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height"40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core#" width="40" height"40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net" alt=".Net" width="40" height"40"/>&nbsp;                 </div>
-                                                                                                                                     
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core#" width="40" height"40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net" alt=".Net" width="40" height"40"/>&nbsp;                 </div>                                                                                                                                  
 - Back-End:
 <div>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;
