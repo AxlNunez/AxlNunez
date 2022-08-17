@@ -8,7 +8,7 @@
 I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m currently contributing to front-end, middle-tier, and back-end solutions for building web applications.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Entity Framework.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AxlNunez) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:FullStackAxl@gmail.com)                                                                                                                                   
                                                                                                                                       
                                                                                                                                       
