@@ -49,6 +49,8 @@ I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack 
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats-axlnunez.vercel.app/api?username=AxlNunez&count_private=true)](https://github.com/AxlNunez/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxlNunez&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats-axlnunez.vercel.app/api/wakatime?username=AxlNunez)](https://github.com/AxlNunez/github-readme-stats)
 
 
