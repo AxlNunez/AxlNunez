@@ -65,7 +65,7 @@ I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack 
 <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="50" /></a> 
 </div>
 
-</td></tr></table>                                                                                                                           
+</td></tr></table>  
 
 <br/>
 
@@ -74,5 +74,11 @@ I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxlNunez&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats-axlnunez.vercel.app/api/wakatime?username=AxlNunez)](https://github.com/AxlNunez/github-readme-stats)
+
+
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
