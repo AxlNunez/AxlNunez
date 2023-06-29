@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full Stack Software Engineer from Costa Rica in the .NET Stack .<br><br>    🔭 I’m currently contributing to front-end, middle-tier, and back-end solutions for building web based applications and solutions.<br>    🌱 I’m currently learning Entity Framework.<br>    ⚡ Fun fact: I've traveled across the entire East Coast, been to 3 continents, and saw one of the 7 wonders of the world! (Can you guess which one?)</p>
+<p align="left">I'm a passionate Full Stack Software Engineer .NET Stack finishing up my Bachelor's degree.<br><br>    🔭 I’m currently contributing to front-end, middle-tier, and back-end solutions for building web based applications and solutions.<br>    🌱 I’m currently learning Entity Framework.<br>    ⚡ Fun fact: I've traveled across the entire East Coast, been to 3 continents, and saw one of the 7 wonders of the world! (Can you guess which one?)</p>
 
 ###
 
