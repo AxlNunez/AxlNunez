@@ -88,6 +88,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/AxlNunez/AxlNunez/output/snake.svg" alt="Snake animation" />
-
 ###
