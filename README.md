@@ -67,7 +67,7 @@
   
   🌱 I’m on my senior year of college.
   
-  ⚡ Fun fact: I've traveled across the entire East Coast, been to 3 continents, and saw one of the 7 wonders of the world! (Can you guess which one?)
+  ⚡ Fun fact: I've traveled across the entire US, been to 3 continents, and seen 3 of the 7 wonders of the world! (Can you guess which ones?)
 </p>
 
 ###
